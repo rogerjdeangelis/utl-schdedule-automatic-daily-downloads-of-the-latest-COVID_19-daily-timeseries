@@ -126,7 +126,16 @@ Schdedule-automatic-daily-downloads of the latest COV-19 daily timeseries
                sheet: &pgm.&dte.confirmGbl
                sheet: &pgm.&dte.deathsGbl
                sheet: &pgm.&dte.recoverGbl
-
+               
+    /*         _       _   _              
+     ___  ___ | |_   _| |_(_) ___  _ __   
+    / __|/ _ \| | | | | __| |/ _ \| `_ \  
+    \__ \ (_) | | |_| | |_| | (_) | | | | 
+    |___/\___/|_|\__,_|\__|_|\___/|_| |_| 
+                                          
+    */ 
+    
+    *  CREATE d:vus d:/vus/csv and d:/vus/xls first;
     *                       _                         __ _ _
       __ _    __      _____| |__     ___ _____   __  / _(_) | ___  ___
      / _` |   \ \ /\ / / _ \ '_ \   / __/ __\ \ / / | |_| | |/ _ \/ __|
