@@ -134,6 +134,9 @@ Schdedule-automatic-daily-downloads of the latest COV-19 daily timeseries
                                           
     */ 
     
+%let pgm=vus_100c19;
+%let dte=200401;
+    
 *  CREATE d:vus d:/vus/csv and d:/vus/xls first;
 *                       _                         __ _ _
   __ _    __      _____| |__     ___ _____   __  / _(_) | ___  ___
