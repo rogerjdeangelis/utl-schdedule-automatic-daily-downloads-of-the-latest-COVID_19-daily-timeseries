@@ -20,8 +20,8 @@ Schdedule-automatic-daily-downloads of the latest COV-19 daily timeseries
        You will need this folder structure
 
          d:/vus
-         d;/vus/csv
-         d;/vus/xls
+         d:/vus/csv
+         d:/vus/xls
 
 
        Steps to get detail daily time series of COV-19 cases into SAS tables
